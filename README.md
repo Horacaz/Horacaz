@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hello! My name's Horacio Cazavant :wave:
 
-<!--
-**Horacaz/Horacaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Frontend Developer from Argentina, currently moving towards Fullstack Development. :muscle:
+- Member of [r/argentina-programa](https://argentinaprograma.com/).:blue_heart:
+- Always in constant learning.:point_up:
+- Looking for my first IT work experience.:man_technologist:
 
-Here are some ideas to get you started:
+### Let's get in contact
+- Linkedin
+- Discord
+- Slack
+- Personal Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies and tools that I use.
+- Javascript
+- HTML5
+- CSS3
+- Bootstrap
+- Cypress
+- Jest
+- Git
+- Vscode
+- Eslint
+- NPM
+
+### Currently learning and looking to learn
+- TypeScript
+- React
+- TailwindsCSS
+- SASS
+- Node.js
+- MySQL
+- PHP
+- Italian, French, Euskera :brain:
+
+!!WIP!!
