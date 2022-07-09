@@ -22,6 +22,7 @@
 - Vscode
 - Eslint
 - NPM
+- Figma
 
 ### Currently learning and looking to learn
 - TypeScript
